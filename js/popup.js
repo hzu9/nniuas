@@ -82,7 +82,7 @@ function popup12() {
 }
 
 function popup13() {
-    CreativaPopup.create('Feel free to DM me <font class="contactding" onclick="allahm109kd(); allahm109kd2();" color="#FF0000">droxzy.exe</font> &#10084<br> <font style="color: #696969; font-size: smaller;"> or join my discord server <a href="https://discord.gg/CVvab4JueY" target="_blank"style="color: #ADD8E6;">https://discord.gg/CVvab4JueY</a> </font>', 'Discord', '', {
+    CreativaPopup.create('Feel free to DM me <font class="contactding" onclick="allahm109kd(); allahm109kd2();" color="#FF0000">droxzy.exe</font> &#10084<br> <font style="color: #696969; font-size: smaller;"> or Join my Discord Server <a href="https://discord.gg/CVvab4JueY" target="_blank"style="color: #ADD8E6;">https://discord.gg/CVvab4JueY</a> </font>', 'Discord', '', {
         titleColor: '#6ffcff',
         textColor: '#b0b0b0'
     });
@@ -99,7 +99,7 @@ function allahm109kd() {
 function allahm109kd1() {
     navigator.clipboard.writeText("droxzy.exe");
     setTimeout(function() {
-        alert("Discord username was copied to the clipboard");
+        alert("Discord Username was copied to the Clipboard");
     }, 50);
 }
 
