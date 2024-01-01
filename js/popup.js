@@ -92,7 +92,7 @@ function popup13() {
 function allahm109kd() {
     navigator.clipboard.writeText("droxzy.exe");
     setTimeout(function() {
-        alert("Discord username was copied to the clipboard");
+        alert("Discord Username was copied to the Clipboard");
     }, 50);
 }
 
